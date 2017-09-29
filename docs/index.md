@@ -4,6 +4,8 @@
 
 <src img = "cartoon11.jpg" width = '20%'>
 
+[Joy of Stats](https://www.youtube.com/watch?v=jbkSRLYSojo)
+
 [Pi from pies](https://www.youtube.com/embed/ZNiRzZ66YN0)
 
 > Note to instructors: If you are an instructor who was directed to this site so that you can set up your own web page, you'll find the instructions at <http://github.com/dtkaplan/stat101>. 
@@ -24,5 +26,4 @@ Tutorials are interactive web documents that instructors can use as in-class act
 2. [Experiment with paper planes](https://dtkaplan.shinyapps.io/Paper_planes/)
 3. [Driver reaction times](http://dtkaplan.shinyapps.io/Traffic_signs)
 4. [Data and diabetes](https://dtkaplan.shinyapps.io/Diabetes/)
-
-[All countries data](http://www.lock5stat.com/datasets/AllCountries.csv)
+5. [All countries data](http://www.lock5stat.com/datasets/AllCountries.csv)
