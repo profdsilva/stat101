@@ -1,6 +1,8 @@
 # Welcome to Stat 140
 
-![Death](cartoon11.jpg)
+![](cartoon11.jpg)
+
+<src img = "cartoon11.jpg" width = '20%'>
 
 [Pi from pies](https://www.youtube.com/embed/ZNiRzZ66YN0)
 
