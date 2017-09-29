@@ -1,6 +1,6 @@
 # Welcome to Stat 140
 
-[cartoon](cartoon11.jpg)
+[Pi from pies] (https://www.youtube.com/embed/ZNiRzZ66YN0)
 
 > Note to instructors: If you are an instructor who was directed to this site so that you can set up your own web page, you'll find the instructions at <http://github.com/dtkaplan/stat101>. 
 
