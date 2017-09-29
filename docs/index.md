@@ -21,3 +21,4 @@ Tutorials are interactive web documents that instructors can use as in-class act
 3. [Driver reaction times](http://dtkaplan.shinyapps.io/Traffic_signs)
 4. [Data and diabetes](https://dtkaplan.shinyapps.io/Diabetes/)
 
+[All countries data](http://www.lock5stat.com/datasets/AllCountries.csv)
