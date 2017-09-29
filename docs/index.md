@@ -1,8 +1,6 @@
 # Welcome to Stat 140
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
-[Pi from pies] <https://www.youtube.com/embed/ZNiRzZ66YN0>
+[Pi from pies](https://www.youtube.com/embed/ZNiRzZ66YN0)
 
 > Note to instructors: If you are an instructor who was directed to this site so that you can set up your own web page, you'll find the instructions at <http://github.com/dtkaplan/stat101>. 
 
